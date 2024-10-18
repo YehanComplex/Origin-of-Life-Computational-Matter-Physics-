@@ -1,0 +1,142 @@
+h1.Main_Title{
+    color: black;
+    text-align: center;
+   
+  }
+
+  h2.Main_Title{
+    color: red;
+    text-align: center;
+    
+  }
+
+  h3.Main_Title{
+    color: black;
+    text-align: center;
+    
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+  .aligncenter {
+    text-align: center;
+            }
+
+  .alignjustify {
+              text-align: justify;
+                      }
+
+  h1.Table_of_Contents{
+    font-size: 22px;
+    text-align: center;
+    
+  }
+
+  ol.Table_of_Contents
+  {
+    font-size: 18px;   
+  }
+
+  h1.chapter
+  { 
+    color: black;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  h2.chapter
+  { 
+    color: black;
+    background-color:rgb(243, 119, 233);
+    text-align: center;
+    font-size: 18px;
+  }
+
+  h3.chapter
+  { 
+    color: black;
+    text-align: left;
+    font-size: 14px;
+  }
+
+  p.centered
+  {text-align: center;}
+
+  p.chapter
+  {text-align: justify;}
+
+  q.chapter
+  {
+    font-style: italic;
+  }
+
+  body.ch0{
+    background-color:rgb(243, 119, 233);
+  }
+
+  div.Main_Title{
+    padding:10px;
+    border-style: solid;
+    width: 500px;
+    margin: auto
+   
+  }
+
+  div.cpyrgt{
+    padding:10px;
+    border-style: solid;
+    width: 500px;
+    margin: auto
+  }
+
+  div.chapter{
+    padding:10px;
+    border-style: solid;
+    width: 800px;
+    margin: auto
+  }
+
+  h1.contents{
+text-align: center;
+font-size: 22px;
+  }
+
+  li{
+    text-align: justify;
+    margin-bottom: 10px;
+  }
+
+  h2.references{
+    color: black;
+    background-color:rgb(243, 119, 233);
+    text-align: center;
+    font-size: 18px;
+
+  }
+
+ ul.references{
+  text-align: justify;
+  list-style-type: none;
+
+  }
+
+  table.contents {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+th, td {
+  border: 1px solid black; /* Set the border for table header and data cells */
+  padding: 8px; /* Add some padding for cell content */
+  
+}
+
+td{
+  text-align: justify;
+}
